@@ -1,0 +1,454 @@
+@import './mixin.scss';
+.poke-one{
+@include pic($x:-136px)
+}
+.poke-three{
+    @include pic($x:-272px)
+}
+.poke-two{
+    @include pic($x:-204px)
+    }
+.poke-four{
+    @include pic($x:-408px)
+}
+.poke-five{
+    @include pic($x:-476px)
+}
+.poke-six{
+    @include pic($x:-544px)
+}
+.poke-seven{
+    @include pic($x:-816px)
+}
+.poke-eight{
+    @include pic($x:-884px)
+}
+.poke-nine{
+    @include pic($x:-952px)
+}
+.poke-ten{
+    @include pic($x:-1088px)
+}
+.poke-eleven{
+    @include pic($x:-1156px)
+}
+.poke-twelve{
+    @include pic($x:-1224px)
+}
+.poke-thirteen{
+    @include pic($x:-1360px)
+}
+.poke-fourteen{
+    @include pic($x:-1428px)
+}
+.poke-fifteen{
+    @include pic($x:-1496px)
+}
+.poke-sixteen{
+    @include pic($x:-1632px)
+}
+.poke-seventeen{
+    @include pic($x:-1700px)
+}
+.poke-eighteen{
+    @include pic($x:-1768px)
+}
+.poke-nineteen{
+    @include pic($x:-1904px)
+}
+.poke-twenty{
+    @include pic($y:-56px)
+}
+.poke-twenty-one{
+    @include pic($x:-204px,$y:-56px)
+}
+.poke-twenty-two{
+    @include pic($x:-272px,$y:-56px)
+}
+.poke-twenty-three{
+    @include pic($x:-340px,$y:-56px)
+}
+.poke-twenty-four{
+    @include pic($x:-408px,$y:-56px)
+}
+.poke-twenty-five{
+    @include pic($x:-476px,$y:-56px)
+}
+.poke-twenty-six{
+    @include pic($x:-1564px,$y:-56px)
+}
+.poke-twenty-seven{
+    @include pic($x:-1700px,$y:-56px)
+}
+.poke-twenty-eight{
+    @include pic($x:-1836px,$y:-56px)
+}
+.poke-twenty-nine{
+    @include pic($x:-1972px,$y:-56px)
+}
+.poke-thirty{
+    @include pic($x:-0px,$y:-112px)
+}
+.poke-thirty-one{
+    @include pic($x:-68px,$y:-112px)
+}
+.poke-thirty-two{
+    @include pic($x:-136px,$y:-112px)
+}
+.poke-thirty-three{
+    @include pic($x:-204px,$y:-112px)
+}
+.poke-thirty-four{
+    @include pic($x:-272px,$y:-112px)
+}
+.poke-thirty-five{
+    @include pic($x:-340px,$y:-112px)
+}
+.poke-thirty-six{
+    @include pic($x:-408px,$y:-112px)
+}
+.poke-thirty-seven{
+    @include pic($x:-476px,$y:-112px)
+}
+.poke-thirty-eight{
+    @include pic($x:-612px,$y:-112px)
+}
+.poke-thirty-nine{
+    @include pic($x:-748px,$y:-112px)
+}
+.poke-forty{
+    @include pic($x:-816px,$y:-112px)
+}
+.poke-forty-one{
+    @include pic($x:-884px,$y:-112px)
+}
+.poke-forty-two{
+    @include pic($x:-952px,$y:-112px)
+}
+.poke-forty-three{
+    @include pic($x:-1020px,$y:-112px)
+}
+.poke-forty-four{
+    @include pic($x:-1088px,$y:-112px)
+}
+.poke-forty-five{
+    @include pic($x:-1156px,$y:-112px)
+}
+.poke-forty-six{
+    @include pic($x:-1224px,$y:-112px)
+}
+.poke-forty-seven{
+    @include pic($x:-1292px,$y:-112px)
+}
+.poke-forty-eight{
+    @include pic($x:-1360px,$y:-112px)
+}
+.poke-forty-nine{
+    @include pic($x:-1428px,$y:-112px)
+}
+.poke-fifty{
+    @include pic($x:-1496px,$y:-112px)
+}
+.poke-fifty-one{
+    @include pic($x:-1632px,$y:-112px)
+}
+.poke-fifty-two{
+    @include pic($x:-1768px,$y:-112px)
+}
+.poke-fifty-three{
+    @include pic($x:0px,$y:-168px)
+}
+.poke-fifty-four{
+    @include pic($x:-136px,$y:-168px)
+}
+.poke-fifty-five{
+    @include pic($x:-204px,$y:-168px)
+}
+.poke-fifty-six{
+    @include pic($x:-272px,$y:-168px)
+}
+.poke-fifty-seven{
+    @include pic($x:-340px,$y:-168px)
+}
+.poke-fifty-eight{
+    @include pic($x:-408px,$y:-168px)
+}
+.poke-fifty-nine{
+    @include pic($x:-476px,$y:-168px)
+}
+.poke-sixty{
+    @include pic($x:-544px,$y:-168px)
+}
+.poke-sixty-one{
+    @include pic($x:-612px,$y:-168px)
+}
+.poke-sixty-two{
+    @include pic($x:-680px,$y:-168px)
+}
+.poke-sixty-three{
+    @include pic($x:-748px,$y:-168px)
+}
+.poke-sixty-four{
+    @include pic($x:-816px,$y:-168px)
+}
+.poke-sixty-five{
+    @include pic($x:-884px,$y:-168px)
+}
+.poke-sixty-six{
+    @include pic($x:-1020px,$y:-168px)
+}
+.poke-sixty-seven{
+    @include pic($x:-1088px,$y:-168px)
+}
+.poke-sixty-eight{
+    @include pic($x:-1156px,$y:-168px)
+}
+.poke-sixty-nine{
+    @include pic($x:-1292px,$y:-168px)
+}
+.poke-seventy{
+    @include pic($x:-1360px,$y:-168px)
+}
+.poke-seventy-one{
+    @include pic($x:-1428px,$y:-168px)
+}
+.poke-seventy-two{
+    @include pic($x:-1496px,$y:-168px)
+}
+.poke-seventy-three{
+    @include pic($x:-1564px,$y:-168px)
+}
+.poke-seventy-four{
+    @include pic($x:-1632px,$y:-168px)
+}
+.poke-seventy-five{
+    @include pic($x:-1768px,$y:-168px)
+}
+.poke-seventy-six{
+    @include pic($x:-1904px,$y:-168px)
+}
+.poke-seventy-seven{
+    @include pic($x:0px,$y:-224px)
+}
+.poke-seventy-eight{
+    @include pic($x:-136px,$y:-224px)
+}
+.poke-seventy-nine{
+    @include pic($x:-272px,$y:-224px)
+}
+.poke-eighty{
+    @include pic($x:-340px,$y:-224px)
+}
+.poke-eighty-one{
+    @include pic($x:-476px,$y:-224px)
+}
+.poke-eighty-two{
+    @include pic($x:-544px,$y:-224px)
+}
+.poke-eighty-three{
+    @include pic($x:-612px,$y:-224px)
+}
+.poke-eighty-four{
+    @include pic($x:-748px,$y:-224px)
+}
+.poke-eighty-five{
+    @include pic($x:-816px,$y:-224px)
+}
+.poke-eighty-six{
+    @include pic($x:-884px,$y:-224px)
+}
+.poke-eighty-seven{
+    @include pic($x:-952px,$y:-224px)
+}
+.poke-eighty-eight{
+    @include pic($x:-1020px,$y:-224px)
+}
+.poke-eighty-nine{
+    @include pic($x:-1156px,$y:-224px)
+}
+.poke-ninety{
+    @include pic($x:-1292px,$y:-224px)
+}
+.poke-ninety-one{
+    @include pic($x:-1360px,$y:-224px)
+}
+.poke-ninety-two{
+    @include pic($x:-1428px,$y:-224px)
+}
+.poke-ninety-three{
+    @include pic($x:-1496px,$y:-224px)
+}
+.poke-ninety-four{
+    @include pic($x:-1564px,$y:-224px)
+}
+.poke-ninety-five{
+    @include pic($x:-1768px,$y:-224px)
+}
+.poke-ninety-six{
+    @include pic($x:-1836px,$y:-224px)
+}
+.poke-ninety-seven{
+    @include pic($x:-1904px,$y:-224px)
+}
+.poke-ninety-eight{
+    @include pic($x:-1972px,$y:-224px)
+}
+.poke-ninety-nine{
+    @include pic($x:0px,$y:-280px)
+}
+.poke-hundred{
+    @include pic($x:-136px,$y:-280px)
+}
+.poke-hundred-one{
+    @include pic($x:-204px,$y:-280px)
+}
+.poke-hundred-two{
+    @include pic($x:-272px,$y:-280px)
+}
+.poke-hundred-three{
+    @include pic($x:-340px,$y:-280px)
+}
+.poke-hundred-four{
+    @include pic($x:-476px,$y:-280px)
+}
+.poke-hundred-five{
+    @include pic($x:-544px,$y:-280px)
+}
+.poke-hundred-six{
+    @include pic($x:-748px,$y:-280px)
+}
+.poke-hundred-seven{
+    @include pic($x:-816px,$y:-280px)
+}
+.poke-hundred-eight{
+    @include pic($x:-884px,$y:-280px)
+}
+.poke-hundred-nine{
+    @include pic($x:-952px,$y:-280px)
+}
+.poke-hundred-ten{
+    @include pic($x:-1020px,$y:-280px)
+}
+.poke-hundred-eleven{
+    @include pic($x:-1156px,$y:-280px)
+}
+.poke-hundred-twelve{
+    @include pic($x:-1224px,$y:-280px)
+}
+.poke-hundred-thirteen{
+    @include pic($x:-1292px,$y:-280px)
+}
+.poke-hundred-fourteen{
+    @include pic($x:-1360px,$y:-280px)
+}
+.poke-hundred-fifteen{
+    @include pic($x:-1428px,$y:-280px)
+}
+.poke-hundred-sixteen{
+    @include pic($x:-1564px,$y:-280px)
+}
+.poke-hundred-seventeen{
+    @include pic($x:-1632px,$y:-280px)
+}
+.poke-hundred-eighteen{
+    @include pic($x:-1700px,$y:-280px)
+}
+.poke-hundred-nineteen{
+    @include pic($x:-1768px,$y:-280px)
+}
+.poke-hundred-twenty{
+    @include pic($x:-1836px,$y:-280px)
+}
+.poke-hundred-twenty-one{
+    @include pic($x:-1904px,$y:-280px)
+}
+.poke-hundred-twenty-two{
+    @include pic($x:-1972px,$y:-280px)
+}
+.poke-hundred-twenty-three{
+    @include pic($x:-68px,$y:-336px)
+}
+.poke-hundred-twenty-four{
+    @include pic($x:-136px,$y:-336px)
+}
+.poke-hundred-twenty-five{
+    @include pic($x:-204px,$y:-336px)
+}
+.poke-hundred-twenty-six{
+    @include pic($x:-272px,$y:-336px)
+}
+.poke-hundred-twenty-seven{
+    @include pic($x:-340px,$y:-336px)
+}
+.poke-hundred-twenty-eight{
+    @include pic($x:-476px,$y:-336px)
+}
+.poke-hundred-twenty-nine{
+    @include pic($x:-544px,$y:-336px)
+}
+.poke-hundred-thirty{
+    @include pic($x:-612px,$y:-336px)
+}
+.poke-hundred-thirty-one{
+    @include pic($x:-748px,$y:-336px)
+}
+.poke-hundred-thirty-two{
+    @include pic($x:-884px,$y:-336px)
+}
+.poke-hundred-thirty-three{
+    @include pic($x:-952px,$y:-336px)
+}
+.poke-hundred-thirty-four{
+    @include pic($x:-1156px,$y:-336px)
+}
+.poke-hundred-thirty-five{
+    @include pic($x:-1224px,$y:-336px)
+}
+.poke-hundred-thirty-six{
+    @include pic($x:-1294px,$y:-336px)
+}
+.poke-hundred-thirty-seven{
+    @include pic($x:-1360px,$y:-336px)
+}
+.poke-hundred-thirty-eight{
+    @include pic($x:-1428px,$y:-336px)
+}
+.poke-hundred-thirty-nine{
+    @include pic($x:-1496px,$y:-336px)
+}
+.poke-hundred-forty{
+    @include pic($x:-1564px,$y:-336px)
+}
+.poke-hundred-forty-one{
+    @include pic($x:-1632px,$y:-336px)
+}
+.poke-hundred-forty-two{
+    @include pic($x:-1700px,$y:-336px)
+}
+.poke-hundred-forty-three{
+    @include pic($x:-1836px,$y:-336px)
+}
+.poke-hundred-forty-four{
+    @include pic($x:-1972px,$y:-336px)
+}
+.poke-hundred-forty-five{
+    @include pic($x:0px,$y:-392px)
+}
+.poke-hundred-forty-six{
+    @include pic($x:-68px,$y:-392px)
+}
+.poke-hundred-forty-seven{
+    @include pic($x:-136px,$y:-392px)
+}
+.poke-hundred-forty-eight{
+    @include pic($x:-204px,$y:-392px)
+}
+.poke-hundred-forty-nine{
+    @include pic($x:-272px,$y:-392px)
+}
+.poke-hundred-fifty{
+    @include pic($x:-340px,$y:-392px)
+}
+.poke-hundred-fifty-one{
+    @include pic($x:-544px,$y:-392px)
+}

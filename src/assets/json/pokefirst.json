@@ -1,0 +1,910 @@
+{
+    "data": [
+        {
+            "name": "妙蛙种子",
+            "number": "#001",
+            "JapaneseName": "フシギダネ",
+            "EnglishName": "Bulbasaur"
+        },
+        {
+            "name": "妙蛙草",
+            "number": "#002",
+            "JapaneseName": "フシギソウ",
+            "EnglishName": "Ivysaur"
+        },
+        {
+            "name": "妙蛙花",
+            "number": "#003",
+            "JapaneseName": "フシギバナ",
+            "EnglishName": "Venusaur"
+        },
+        {
+            "name": "小火龙",
+            "number": "#004",
+            "JapaneseName": "ヒトカゲ",
+            "EnglishName": "Charmander"
+        },
+        {
+            "name": "火恐龙",
+            "number": "#005",
+            "JapaneseName": "リザード",
+            "EnglishName": "Charmeleon"
+        },
+        {
+            "name": "喷火龙",
+            "number": "#006",
+            "JapaneseName": "リザードン",
+            "EnglishName": "Charizard"
+        },
+        {
+            "name": "杰尼龟",
+            "number": "#007",
+            "JapaneseName": "ゼニガメ",
+            "EnglishName": "Squirtler"
+        },
+        {
+            "name": "卡咪龟",
+            "number": "#008",
+            "JapaneseName": "カメール",
+            "EnglishName": "Wartortle"
+        },
+        {
+            "name": "水箭龟",
+            "number": "#009",
+            "JapaneseName": "カメックス",
+            "EnglishName": "Blastoise"
+        },
+        {
+            "name": "绿毛虫",
+            "number": "#010",
+            "JapaneseName": "キャタピー",
+            "EnglishName": "Caterpie"
+        },
+        {
+            "name": "铁甲蛹",
+            "number": "#011",
+            "JapaneseName": "トランセル",
+            "EnglishName": "Metapod"
+        },
+        {
+            "name": "巴大蝶",
+            "number": "#012",
+            "JapaneseName": "バタフリー",
+            "EnglishName": "Butterfree"
+        },
+        {
+            "name": "独角虫",
+            "number": "#013",
+            "JapaneseName": "ビードル",
+            "EnglishName": "Weedle"
+        },
+        {
+            "name": "铁壳蛹",
+            "number": "#014",
+            "JapaneseName": "コクーン",
+            "EnglishName": "Kakuna"
+        },
+        {
+            "name": "大针蜂",
+            "number": "#015",
+            "JapaneseName": "スピアー",
+            "EnglishName": "Beedrill"
+        },
+        {
+            "name": "波波",
+            "number": "#016",
+            "JapaneseName": "ポッポ",
+            "EnglishName": "Pidgey"
+        },
+        {
+            "name": "比比鸟",
+            "number": "#017",
+            "JapaneseName": "ピジョン",
+            "EnglishName": "Pidgeotto"
+        },
+        {
+            "name": "大比鸟",
+            "number": "#018",
+            "JapaneseName": "ピジョット",
+            "EnglishName": "Pidgeot"
+        },
+        {
+            "name": "小拉达",
+            "number": "#019",
+            "JapaneseName": "コラッタ",
+            "EnglishName": "Rattata"
+        },
+        {
+            "name": "拉达",
+            "number": "#020",
+            "JapaneseName": "ラッタ",
+            "EnglishName": "Raticate"
+        },
+        {
+            "name": "烈雀",
+            "number": "#021",
+            "JapaneseName": "オニスズメ",
+            "EnglishName": "Spearow"
+        },
+        {
+            "name": "大嘴雀",
+            "number": "#022",
+            "JapaneseName": "オニドリル",
+            "EnglishName": "Fearow"
+        },
+        {
+            "name": "阿柏蛇",
+            "number": "#023",
+            "JapaneseName": "アーボ",
+            "EnglishName": "Ekans"
+        },
+        {
+            "name": "阿柏怪",
+            "number": "#024",
+            "JapaneseName": "アーボック",
+            "EnglishName": "Arbok"
+        },
+        {
+            "name": "皮卡丘",
+            "number": "#025",
+            "JapaneseName": "ピカチュウ",
+            "EnglishName": "Pikachu"
+        },
+        {
+            "name": "雷丘",
+            "number": "#026",
+            "JapaneseName": "ライチュウ",
+            "EnglishName": "Raichu"
+        },
+        {
+            "name": "穿山鼠",
+            "number": "#027",
+            "JapaneseName": "サンド",
+            "EnglishName": "Sandshrew"
+        },
+        {
+            "name": "穿山王",
+            "number": "#028",
+            "JapaneseName": "サンドパン",
+            "EnglishName": "Sandslash"
+        },
+        {
+            "name": "尼多兰",
+            "number": "#029",
+            "JapaneseName": "ニドラン♀",
+            "EnglishName": "Nidoran♀"
+        },
+        {
+            "name": "尼多娜",
+            "number": "#030",
+            "JapaneseName": "ニドリーナ",
+            "EnglishName": "Nidorina"
+        },
+        {
+            "name": "尼多后",
+            "number": "#031",
+            "JapaneseName": "ニドクイン",
+            "EnglishName": "Nidoqueen"
+        },
+        {
+            "name": "尼多朗",
+            "number": "#032",
+            "JapaneseName": "ニドラン♂",
+            "EnglishName": "Nidoran♂"
+        },
+        {
+            "name": "尼多力诺",
+            "number": "#033",
+            "JapaneseName": "ニドリーノ",
+            "EnglishName": "Nidorino"
+        },
+        {
+            "name": "尼多王",
+            "number": "#034",
+            "JapaneseName": "ニドキング",
+            "EnglishName": "Nidoking"
+        },
+        {
+            "name": "皮皮",
+            "number": "#035",
+            "JapaneseName": "ピッピ",
+            "EnglishName": "Clefairy"
+        },
+        {
+            "name": "皮可西",
+            "number": "#036",
+            "JapaneseName": "ピクシー",
+            "EnglishName": "Clefable"
+        },
+        {
+            "name": "六尾",
+            "number": "#037",
+            "JapaneseName": "ロコン",
+            "EnglishName": "Vulpix"
+        },
+        {
+            "name": "九尾",
+            "number": "#038",
+            "JapaneseName": "キュウコン",
+            "EnglishName": "Ninetales"
+        },
+        {
+            "name": "胖丁",
+            "number": "#039",
+            "JapaneseName": "プリン",
+            "EnglishName": "Jigglypuff"
+        },
+        {
+            "name": "胖可丁",
+            "number": "#040",
+            "JapaneseName": "プクリン",
+            "EnglishName": "Wigglytuff"
+        },
+        {
+            "name": "超音蝠",
+            "number": "#041",
+            "JapaneseName": "ズバット",
+            "EnglishName": "Zubat"
+        },
+        {
+            "name": "大嘴蝠",
+            "number": "#042",
+            "JapaneseName": "ゴルバット",
+            "EnglishName": "Golbat"
+        },
+        {
+            "name": "走路草",
+            "number": "#043",
+            "JapaneseName": "ナゾノクサ",
+            "EnglishName": "Oddish"
+        },
+        {
+            "name": "臭臭花",
+            "number": "#044",
+            "JapaneseName": "クサイハナ",
+            "EnglishName": "Gloom"
+        },
+        {
+            "name": "霸王花",
+            "number": "#045",
+            "JapaneseName": "ラフレシア",
+            "EnglishName": "Vileplume"
+        },
+        {
+            "name": "派拉斯",
+            "number": "#046",
+            "JapaneseName": "パラス",
+            "EnglishName": "Paras"
+        },
+        {
+            "name": "派拉斯特",
+            "number": "#047",
+            "JapaneseName": "パラセクト",
+            "EnglishName": "Parasect"
+        },
+        {
+            "name": "毛球",
+            "number": "#048",
+            "JapaneseName": "コンパン",
+            "EnglishName": "Venonat"
+        },
+        {
+            "name": "摩鲁蛾",
+            "number": "#049",
+            "JapaneseName": "モルフォン",
+            "EnglishName": "Venomoth"
+        },
+        {
+            "name": "地鼠",
+            "number": "#050",
+            "JapaneseName": "ディグダ",
+            "EnglishName": "Diglett"
+        },
+        {
+            "name": "三地鼠",
+            "number": "#051",
+            "JapaneseName": "ダグトリオ",
+            "EnglishName": "Dugtrio"
+        },
+        {
+            "name": "喵喵",
+            "number": "#052",
+            "JapaneseName": "ニャース",
+            "EnglishName": "Meowth"
+        },
+        {
+            "name": "猫老大",
+            "number": "#053",
+            "JapaneseName": "ペルシアン",
+            "EnglishName": "Persian"
+        },
+        {
+            "name": "可达鸭",
+            "number": "#054",
+            "JapaneseName": "コダック",
+            "EnglishName": "Psyduck"
+        },
+        {
+            "name": "哥达鸭",
+            "number": "#055",
+            "JapaneseName": "ゴルダック",
+            "EnglishName": "Golduck"
+        },
+        {
+            "name": "猴怪",
+            "number": "#056",
+            "JapaneseName": "マンキー",
+            "EnglishName": "Mankey"
+        },
+        {
+            "name": "火爆猴",
+            "number": "#057",
+            "JapaneseName": "オコリザル",
+            "EnglishName": "Primeape"
+        },
+        {
+            "name": "卡蒂狗",
+            "number": "#058",
+            "JapaneseName": "ガーディ",
+            "EnglishName": "Growlithe"
+        },
+        {
+            "name": "风速狗",
+            "number": "#059",
+            "JapaneseName": "ウインディ",
+            "EnglishName": "Arcanine"
+        },
+        {
+            "name": "蚊香蝌蚪",
+            "number": "#060",
+            "JapaneseName": "ニョロモ",
+            "EnglishName": "Poliwag"
+        },
+        {
+            "name": "蚊香君",
+            "number": "#061",
+            "JapaneseName": "ニョロゾ",
+            "EnglishName": "Poliwhirl"
+        },
+        {
+            "name": "蚊香泳士",
+            "number": "#062",
+            "JapaneseName": "ニョロボン",
+            "EnglishName": "Poliwrath"
+        },
+        {
+            "name": "凯西",
+            "number": "#063",
+            "JapaneseName": "ケーシィ",
+            "EnglishName": "Abra"
+        },
+        {
+            "name": "勇基拉",
+            "number": "#064",
+            "JapaneseName": "ユンゲラー",
+            "EnglishName": "Kadabra"
+        },
+        {
+            "name": "胡地",
+            "number": "#065",
+            "JapaneseName": "フーディン",
+            "EnglishName": "Alakazam"
+        },
+        {
+            "name": "腕力",
+            "number": "#066",
+            "JapaneseName": "ワンリキー",
+            "EnglishName": "Machop"
+        },
+        {
+            "name": "豪力",
+            "number": "#067",
+            "JapaneseName": "ゴーリキー",
+            "EnglishName": "Machoke"
+        },
+        {
+            "name": "怪力",
+            "number": "#068",
+            "JapaneseName": "カイリキー",
+            "EnglishName": "Machamp"
+        },
+        {
+            "name": "喇叭芽",
+            "number": "#069",
+            "JapaneseName": "マダツボミ",
+            "EnglishName": "Bellsprout"
+        },
+        {
+            "name": "口呆花",
+            "number": "#070",
+            "JapaneseName": "ウツドン",
+            "EnglishName": "Weepinbell"
+        },
+        {
+            "name": "大食花",
+            "number": "#071",
+            "JapaneseName": "ウツボット",
+            "EnglishName": "Victreebel"
+        },
+        {
+            "name": "玛瑙水母",
+            "number": "#072",
+            "JapaneseName": "メノクラゲ",
+            "EnglishName": "Tentacool"
+        },
+        {
+            "name": "毒刺水母",
+            "number": "#073",
+            "JapaneseName": "ドククラゲ",
+            "EnglishName": "Tentacruel"
+        },
+        {
+            "name": "小拳石",
+            "number": "#074",
+            "JapaneseName": "イシツブテ",
+            "EnglishName": "Geodude"
+        },
+        {
+            "name": "隆隆石",
+            "number": "#075",
+            "JapaneseName": "ゴローン",
+            "EnglishName": "Graveler"
+        },
+        {
+            "name": "隆隆岩",
+            "number": "#076",
+            "JapaneseName": "ゴローニャ",
+            "EnglishName": "Golem"
+        },
+        {
+            "name": "小火马",
+            "number": "#077",
+            "JapaneseName": "ポニータ",
+            "EnglishName": "Ponyta"
+        },
+        {
+            "name": "烈焰马",
+            "number": "#078",
+            "JapaneseName": "ギャロップ",
+            "EnglishName": "Rapidash"
+        },
+        {
+            "name": "呆呆兽",
+            "number": "#079",
+            "JapaneseName": "ヤドン",
+            "EnglishName": "Slowpoke"
+        },
+        {
+            "name": "呆壳兽",
+            "number": "#080",
+            "JapaneseName": "ヤドラン",
+            "EnglishName": "Slowbro"
+        },
+        {
+            "name": "小磁怪",
+            "number": "#081",
+            "JapaneseName": "コイル",
+            "EnglishName": "Magnemite"
+        },
+        {
+            "name": "三合一磁怪",
+            "number": "#082",
+            "JapaneseName": "レアコイル",
+            "EnglishName": "Magneton"
+        },
+        {
+            "name": "大葱鸭",
+            "number": "#083",
+            "JapaneseName": "カモネギ",
+            "EnglishName": "Farfetch'd"
+        },
+        {
+            "name": "嘟嘟",
+            "number": "#084",
+            "JapaneseName": "ドードー",
+            "EnglishName": "Doduo"
+        },
+        {
+            "name": "嘟嘟利",
+            "number": "#085",
+            "JapaneseName": "ドードリオ",
+            "EnglishName": "Dodrio"
+        },
+        {
+            "name": "小海狮",
+            "number": "#086",
+            "JapaneseName": "パウワウ",
+            "EnglishName": "Seel"
+        },
+        {
+            "name": "白海狮",
+            "number": "#087",
+            "JapaneseName": "ジュゴン",
+            "EnglishName": "Dewgong"
+        },
+        {
+            "name": "臭泥",
+            "number": "#088",
+            "JapaneseName": "ベトベター",
+            "EnglishName": "Grimer"
+        },
+        {
+            "name": "臭臭泥",
+            "number": "#089",
+            "JapaneseName": "ベトベトン",
+            "EnglishName": "Muk"
+        },
+        {
+            "name": "大舌贝",
+            "number": "#090",
+            "JapaneseName": "シェルダー",
+            "EnglishName": "Shellder"
+        },
+        {
+            "name": "刺甲贝",
+            "number": "#091",
+            "JapaneseName": "パルシェン",
+            "EnglishName": "Cloyster"
+        },
+        {
+            "name": "鬼斯",
+            "number": "#092",
+            "JapaneseName": "ゴース",
+            "EnglishName": "Gastly"
+        },
+        {
+            "name": "鬼斯通",
+            "number": "#093",
+            "JapaneseName": "ゴースト",
+            "EnglishName": "Haunter"
+        },
+        {
+            "name": "耿鬼",
+            "number": "#094",
+            "JapaneseName": "ゲンガー",
+            "EnglishName": "Gengar"
+        },
+        {
+            "name": "大岩蛇",
+            "number": "#095",
+            "JapaneseName": "イワーク",
+            "EnglishName": "Onix"
+        },
+        {
+            "name": "催眠貘",
+            "number": "#096",
+            "JapaneseName": "スリープ",
+            "EnglishName": "Drowzee"
+        },
+        {
+            "name": "引梦貘人",
+            "number": "#097",
+            "JapaneseName": "スリーパー",
+            "EnglishName": "Hypno"
+        },
+        {
+            "name": "大钳蟹",
+            "number": "#098",
+            "JapaneseName": "クラブ",
+            "EnglishName": "Krabby"
+        },
+        {
+            "name": "巨钳蟹",
+            "number": "#099",
+            "JapaneseName": "キングラー",
+            "EnglishName": "Kingler"
+        },
+        {
+            "name": "霹雳电球",
+            "number": "#100",
+            "JapaneseName": "ビリリダマ",
+            "EnglishName": "Voltorb"
+        },
+        {
+            "name": "顽皮雷弹",
+            "number": "#101",
+            "JapaneseName": "マルマイン",
+            "EnglishName": "Electrode"
+        },
+        {
+            "name": "蛋蛋",
+            "number": "#102",
+            "JapaneseName": "タマタマ",
+            "EnglishName": "Exeggcute"
+        },
+        {
+            "name": "椰蛋树",
+            "number": "#103",
+            "JapaneseName": "ナッシー",
+            "EnglishName": "Exeggutor"
+        },
+        {
+            "name": "卡拉卡拉",
+            "number": "#104",
+            "JapaneseName": "カラカラ",
+            "EnglishName": "Cubone"
+        },
+        {
+            "name": "嘎啦嘎啦",
+            "number": "#105",
+            "JapaneseName": "ガラガラ",
+            "EnglishName": "Marowak"
+        },
+        {
+            "name": "飞腿郎",
+            "number": "#106",
+            "JapaneseName": "サワムラー",
+            "EnglishName": "Hitmonlee"
+        },
+        {
+            "name": "快拳郎",
+            "number": "#107",
+            "JapaneseName": "エビワラー",
+            "EnglishName": "Hitmonchan"
+        },
+        {
+            "name": "大舌头",
+            "number": "#108",
+            "JapaneseName": "ベロリンガ",
+            "EnglishName": "Lickitung"
+        },
+        {
+            "name": "瓦斯弹",
+            "number": "#109",
+            "JapaneseName": "ドガース",
+            "EnglishName": "Koffing"
+        },
+        {
+            "name": "双弹瓦斯",
+            "number": "#110",
+            "JapaneseName": "マタドガス",
+            "EnglishName": "Weezing"
+        },
+        {
+            "name": "独角犀牛",
+            "number": "#111",
+            "JapaneseName": "サイホーン",
+            "EnglishName": "Rhyhorn"
+        },
+        {
+            "name": "钻角犀兽",
+            "number": "#112",
+            "JapaneseName": "サイドン",
+            "EnglishName": "Rhydon"
+        },
+        {
+            "name": "吉利蛋",
+            "number": "#113",
+            "JapaneseName": "ラッキー",
+            "EnglishName": "Chansey"
+        },
+        {
+            "name": "蔓藤怪",
+            "number": "#114",
+            "JapaneseName": "モンジャラ",
+            "EnglishName": "Tangela"
+        },
+        {
+            "name": "袋兽",
+            "number": "#115",
+            "JapaneseName": "ガルーラ",
+            "EnglishName": "Kangaskhan"
+        },
+        {
+            "name": "墨海马",
+            "number": "#116",
+            "JapaneseName": "タッツー",
+            "EnglishName": "Horsea"
+        },
+        {
+            "name": "海刺龙",
+            "number": "#117",
+            "JapaneseName": "シードラ",
+            "EnglishName": "Seadra"
+        },
+        {
+            "name": "角金鱼",
+            "number": "#118",
+            "JapaneseName": "トサキント",
+            "EnglishName": "Goldeen"
+        },
+        {
+            "name": "金鱼王",
+            "number": "#119",
+            "JapaneseName": "アズマオウ",
+            "EnglishName": "Seaking"
+        },
+        {
+            "name": "海星星",
+            "number": "#120",
+            "JapaneseName": "ヒトデマン",
+            "EnglishName": "Staryu"
+        },
+        {
+            "name": "宝石海星",
+            "number": "#121",
+            "JapaneseName": "スターミー",
+            "EnglishName": "Starmie"
+        },
+        {
+            "name": "魔墙人偶",
+            "number": "#122",
+            "JapaneseName": "バリヤード",
+            "EnglishName": "Mr. Mime"
+        },
+        {
+            "name": "飞天螳螂",
+            "number": "#123",
+            "JapaneseName": "ストライク",
+            "EnglishName": "Scyther"
+        },
+        {
+            "name": "迷唇姐",
+            "number": "#124",
+            "JapaneseName": "ルージュラ",
+            "EnglishName": "Jynx"
+        },
+        {
+            "name": "电击兽",
+            "number": "#125",
+            "JapaneseName": "エレブー",
+            "EnglishName": "Electabuzz"
+        },
+        {
+            "name": "鸭嘴火兽",
+            "number": "#126",
+            "JapaneseName": "ブーバー",
+            "EnglishName": "Magmar"
+        },
+        {
+            "name": "凯罗斯",
+            "number": "#127",
+            "JapaneseName": "カイロス",
+            "EnglishName": "Pinsir"
+        },
+        {
+            "name": "肯泰罗",
+            "number": "#128",
+            "JapaneseName": "ケンタロス",
+            "EnglishName": "Tauros"
+        },
+        {
+            "name": "鲤鱼王",
+            "number": "#129",
+            "JapaneseName": "コイキング",
+            "EnglishName": "Magikarp"
+        },
+        {
+            "name": "暴鲤龙",
+            "number": "#130",
+            "JapaneseName": "ギャラドス",
+            "EnglishName": "Gyarados"
+        },
+        {
+            "name": "拉普拉斯",
+            "number": "#131",
+            "JapaneseName": "ラプラス",
+            "EnglishName": "Lapras"
+        },
+        {
+            "name": "百变怪",
+            "number": "#132",
+            "JapaneseName": "メタモン",
+            "EnglishName": "Ditto"
+        },
+        {
+            "name": "伊布",
+            "number": "#133",
+            "JapaneseName": "イーブイ",
+            "EnglishName": "Eevee"
+        },
+        {
+            "name": "水伊布",
+            "number": "#134",
+            "JapaneseName": "シャワーズ",
+            "EnglishName": "Vaporeon"
+        },
+        {
+            "name": "雷伊布",
+            "number": "#135",
+            "JapaneseName": "サンダース",
+            "EnglishName": "Jolteon"
+        },
+        {
+            "name": "火伊布",
+            "number": "#136",
+            "JapaneseName": "ブースター",
+            "EnglishName": "Flareon"
+        },
+        {
+            "name": "多边兽",
+            "number": "#137",
+            "JapaneseName": "ポリゴン",
+            "EnglishName": "Porygon"
+        },
+        {
+            "name": "菊石兽",
+            "number": "#138",
+            "JapaneseName": "オムナイト",
+            "EnglishName": "Omanyte"
+        },
+        {
+            "name": "多刺菊石兽",
+            "number": "#139",
+            "JapaneseName": "オムスター",
+            "EnglishName": "Omastar"
+        },
+        {
+            "name": "化石盔",
+            "number": "#140",
+            "JapaneseName": "カブト",
+            "EnglishName": "Kabuto"
+        },
+        {
+            "name": "镰刀盔",
+            "number": "#141",
+            "JapaneseName": "カブトプス",
+            "EnglishName": "Kabutops"
+        },
+        {
+            "name": "化石翼龙",
+            "number": "#142",
+            "JapaneseName": "プテラ",
+            "EnglishName": "Aerodactyl"
+        },
+        {
+            "name": "卡比兽",
+            "number": "#143",
+            "JapaneseName": "カビゴン",
+            "EnglishName": "Snorlax"
+        },
+        {
+            "name": "急冻鸟",
+            "number": "#144",
+            "JapaneseName": "フリーザー",
+            "EnglishName": "Articuno"
+        },
+        {
+            "name": "闪电鸟",
+            "number": "#145",
+            "JapaneseName": "サンダー",
+            "EnglishName": "Zapdos"
+        },
+        {
+            "name": "火焰鸟",
+            "number": "#146",
+            "JapaneseName": "ファイヤー",
+            "EnglishName": "Moltres"
+        },
+        {
+            "name": "迷你龙",
+            "number": "#147",
+            "JapaneseName": "ミニリュウ",
+            "EnglishName": "Dratini"
+        },
+        {
+            "name": "哈克龙",
+            "number": "#148",
+            "JapaneseName": "ハクリュー",
+            "EnglishName": "Dragonair"
+        },
+        {
+            "name": "快龙",
+            "number": "#149",
+            "JapaneseName": "カイリュー",
+            "EnglishName": "Dragonite"
+        },
+        {
+            "name": "超梦",
+            "number": "#150",
+            "JapaneseName": "ミュウツー",
+            "EnglishName": "Mewtwo"
+        },
+        {
+            "name": "梦幻",
+            "number": "#151",
+            "JapaneseName": "ミュウ",
+            "EnglishName": "Mew"
+        }
+    ]
+}
